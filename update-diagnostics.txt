@@ -1,0 +1,4 @@
+2026.11.6.1456
+https://raw.githubusercontent.com/FlashJukeMain/PredictiveInput-Releases/main/PredictiveInput-Setup-2026.11.6.1456-diagnostics.exe
+2ef4c340b09c6125adf6e2f3bf4ffad1cc022aaf1ebac7a6996d2f0ad60dde92
+f4c523a8d92e338ae879bc25957466bae38a1bc22af0dab8268cd25a905d25817bcb857a95c93f7e811f22a588a3afd8d0dbcaa7d318fe107e5d76d319dba2d5
