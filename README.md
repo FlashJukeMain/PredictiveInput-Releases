@@ -1,2 +1,2 @@
-# PredictiveInput-Releases
-Installers and update manifest for PredictiveInput
+# TapCorrect releases
+Installers and update manifests for TapCorrect (formerly PredictiveInput): autocorrect like on your phone, for every Windows app.
