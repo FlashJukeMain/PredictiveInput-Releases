@@ -1,4 +1,4 @@
 2026.11.28.1918
-https://raw.githubusercontent.com/FlashJukeMain/PredictiveInput-Releases/main/TapCorrect-Setup-2026.11.28.1918.exe
+https://raw.githubusercontent.com/tapcorrect/PredictiveInput-Releases/main/TapCorrect-Setup-2026.11.28.1918.exe
 859cbcabc708f0fdfb0a1039ece89a30c266e52b3599a7793b1d02226ec3a51e
-4e90fc1cb7e083685182cf002b0bc6f722b88c2074c93c52a4c99d29eeabed7b95dff2425cef1b6b5d9734e0640f50cae51c36e1ea9b4b8594fcfd5053d1e823
+bd304af1cf8ddeaadeb224999202b0e33219c8fe2e04ff0ca82e4f11d5b32432bcab4630f392a69195c4448e5d6c55e5d180e8893e726adfa394d7b11262bb85
